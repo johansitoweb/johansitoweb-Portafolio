@@ -11,7 +11,7 @@ const hardSkills: HardSkill[] = [
     // icon: "astro_dark"
   },
   {
-    name: "Desarrollo Movil",
+    name: "Desarrollo Movil y videojuegos",
     // description: "My favorite React framework for building modern web apps",
     // icon: "nextjs_icon_dark"
   },

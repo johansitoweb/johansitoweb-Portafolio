@@ -10,8 +10,8 @@ interface Education {
 
 const  education: Education[] = [
     {
-        title: "General English",
-        startDate: "2024-09-01",
+        title: "Ingenieria en sistema",
+        startDate: "2023",
         endDate: "",
         school: "University Name",
         location: "United States",
