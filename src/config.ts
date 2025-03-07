@@ -1,6 +1,6 @@
 export const SITE = {
     website: "https://simple-portfolio.vicbox.dev", // replace this with your deployed domain
-    title: "Simple Portfolio",
+    title: "Johansitoweb Portfolio",
     description: "A simple but beautiful portfolio created with Astro",
     tags: ["portfolio", "Resume cv", "Astro"],
     ogImage: "/og-image.webp",
@@ -8,8 +8,8 @@ export const SITE = {
     logoText: "Portfolio",
     lang: "en",
     favicon: "/favicon.png",
-    repository: "https://github.com/vito8916/simple-portfolio.git",
-    author: "Victor Alvarado",
+    repository: "https://github.com/johansitoweb/johansitoweb-Portafolio",
+    author: "johansitoweb",
     profile: "https://victoralvarado.dev/",
 }
 
@@ -42,16 +42,11 @@ export const ME = {
 export const SOCIALS = [
     {
         name: "Twitter",
-        url: "https://twitter.com/vicbox.dev",
+        url: "https://twitter.com/johansitoweb",
         icon: "twitter-x-fill",
         show: true
     },
-    {
-        name: "Facebook",
-        url: "https://www.facebook.com/vicbox.dev",
-        icon: "facebook-fill",
-        show: false
-    },
+    
     {
         name: "Instagram",
         url: "https://www.instagram.com/johansitoweb",
@@ -64,12 +59,7 @@ export const SOCIALS = [
         icon: "youtube-fill",
         show: true
     },
-    {
-        name: "TikTok",
-        url: "https://tiktok.com/vicbox.dev",
-        icon: "tik-fill",
-        show: false
-    },
+  
     {
         name: "GitHub",
         url: "https://github.com/johansitoweb",
