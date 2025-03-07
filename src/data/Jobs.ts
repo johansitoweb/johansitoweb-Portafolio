@@ -45,7 +45,7 @@ interface WorkExperience {
 const workExperience:WorkExperience[] = [
     {
         title: "Encargado de Area y Principal Software Engineer",
-        startDate: "2020-03-10",
+        startDate: "Actualmente",
         company: "Google Inc",
         location: "United States",
         description: "Developed and maintained web applications using React, NextJs, and Tailwind CSS.",
@@ -57,9 +57,9 @@ const workExperience:WorkExperience[] = [
         currentJob: true,
     },
     {
-        title: "Software Engineer",
-        startDate: "2018-03-10",
-        endDate: "2020-03-10",
+        title: "Software Engineer y Movil Developer semi-senior",
+        startDate: "2023-12-9",
+        endDate: "2024-8-26",
         company: "Company Name",
         location: "United States",
         description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
@@ -72,8 +72,8 @@ const workExperience:WorkExperience[] = [
     },
     {
         title: "Game Developer",
-        startDate: "2018-03-10",
-        endDate: "2020-03-10",
+        startDate: "2023-12-9",
+        endDate: "2024-03-10",
         company: "Company Name",
         location: "United States",
         description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
@@ -85,9 +85,9 @@ const workExperience:WorkExperience[] = [
         currentJob: false,
     },
     {
-        title: "Frontend Enginieer",
+        title: "Frontend Enginieer y Frelancer",
         startDate: "2018-03-10",
-        endDate: "2020-03-10",
+        endDate: "2023-03-10",
         company: "Company Name",
         location: "United States",
         description: "Developed and maintained web applications using React, NodeJs, and MongoDB.",
